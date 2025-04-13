@@ -1,7 +1,8 @@
 # json-parser
 A simple json parser program assignment i got at a job interview.
 
-run the program with
-``python program.py``
+Run the program with ``python program.py`` and specify the (relative or absolute) path to the json file you want to parse. 
 
-and specify the (relative or absolute) path to the json file you want to parse. Result will be saved in ``output.txt``.
+You can also pass the file path as a command line argument, for example: ``python program.py ./data_task2_1.json``
+
+Result will be saved in ``output.txt``.
